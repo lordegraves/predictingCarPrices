@@ -1,3 +1,22 @@
+# Predicting Car Prices
+
+## Project Overview
+The goal of this project is to develop a machine learning model that can accurately predict the market value of cars based on their characteristics. By analyzing a comprehensive dataset of car features and prices, we aim to provide valuable insights for buyers, sellers, and enthusiasts to understand what factors most significantly affect a car's price.
+
+### Data Source
+The dataset for this project was curated from a vast collection of datasets utilized for AI testing, stored on a private Google Drive. Due to privacy considerations, the direct link to the dataset is not available.
+
+## Getting Started
+
+### Dependencies
+- Python 3.x
+- pandas
+- numpy
+- scikit-learn
+- matplotlib (for visualization)
+
+### Installation
+Clone this repository to your local machine to get started:
 
 ## Workflow
 
