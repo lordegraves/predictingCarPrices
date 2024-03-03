@@ -13,7 +13,6 @@ The dataset for this project was curated from a vast collection of datasets util
 - pandas
 - numpy
 - scikit-learn
-- matplotlib (for visualization)
 
 ### Installation
 Clone this repository to your local machine to get started:
